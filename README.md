@@ -1,6 +1,6 @@
 # XinoUnrealEngine
-# Ureal ASSETS BY XINO
-this is a **collection** of whatever I made for unreal engine include:
+# Ureal Assest by XINO 
+this is a **collection** of whatever I(AmirNaziri) made for unreal engine include:
 
 1. ___UnrealEngine4___
 	* Materials and material functions
